@@ -1,0 +1,10 @@
+p{
+    color: rgb(0, 145, 255);
+    text-align: center;
+    rotate: 15px;
+}
+
+body{
+    background: url(stars.jpg) ;
+    background-size: cover;
+}
